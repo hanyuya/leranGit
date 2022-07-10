@@ -1,4 +1,4 @@
 hello git! hello haimowang!
 modify master
-modify3
+modify3 hot-fix
 hot-fix
